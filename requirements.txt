@@ -1,0 +1,9 @@
+numpy
+nltk
+pandas
+torch 
+torchvision
+torchaudio
+tkinter
+#-e .
+
